@@ -39,8 +39,8 @@
 
 ## 🤝 CONNECT WITH ME
 
-- LinkedIn: (https://www.linkedin.com/in/hiteshkumars/)
-- Portfolio: (https://hitesh-kumar-s.netlify.app/)
+- LinkedIn: [(https://www.linkedin.com/in/hiteshkumars/)]
+- Portfolio: [(https://hitesh-kumar-s.netlify.app/)]
 
 ---
 
