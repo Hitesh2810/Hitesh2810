@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td>
+<td width="60%">
 
 - 🎓 Final Year CSE Student  
 - 💡 Interested in AI, ML & Security  
@@ -15,8 +15,8 @@
 
 </td>
 
-<td>
-<img src="https://media.tenor.com/C2qhcTXenZoAAAAM/ong-ong-duckgo-bt-bnn-ikw-sewa-rumah-nak-baya-bile.gif" width="250"/>
+<td width="40%" align="right">
+<img src="https://media.tenor.com/C2qhcTXenZoAAAAM/ong-ong-duckgo-bt-bnn-ikw-sewa-rumah-nak-baya-bile.gif" width="350"/>
 </td>
 </tr>
 </table>
