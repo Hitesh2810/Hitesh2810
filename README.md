@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
 Hey there! I'm Hitesh, but you can call me a builder of smart solutions 👨‍💻  
 
@@ -30,7 +30,7 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 
 </td>
 
-<td width="40%" align="right">
+<td width="35%" align="right">
 <img src="https://media.tenor.com/C2qhcTXenZoAAAAM/ong-ong-duckgo-bt-bnn-ikw-sewa-rumah-nak-baya-bile.gif" width="350"/>
 </td>
 </tr>
