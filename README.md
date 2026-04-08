@@ -9,9 +9,24 @@
 <tr>
 <td width="60%">
 
-- 🎓 Final Year CSE Student  
-- 💡 Interested in AI, ML & Security  
-- 🛠️ Building real-world projects  
+Hey there! I'm Hitesh, but you can call me a builder of smart solutions 👨‍💻  
+
+I'm passionate about AI, web development, and cybersecurity. I enjoy creating real-world applications that combine intelligence with usability. Think of me as someone who loves turning ideas into impactful digital solutions.  
+
+🚀 What I'm Currently Working On:
+
+- 📚 Exploring AI & Machine Learning concepts  
+- 🤖 Building voice-based and AI-powered applications  
+- 🌐 Developing full-stack web applications (React + Node.js + MongoDB)  
+- 🔐 Learning cybersecurity concepts and ethical hacking basics  
+- 📊 Working on data-driven projects and model building  
+
+💡 Fun Facts:
+
+- 🎮 I treat coding like solving real-world puzzles  
+- 🏁 Started with curiosity about how technology works  
+- ⚡ I enjoy building projects that solve practical problems  
+- 🚀 Always learning and experimenting with new technologies  
 
 </td>
 
