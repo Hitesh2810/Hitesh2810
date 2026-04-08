@@ -103,17 +103,17 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 
 ### ⭐ Stats
 
-- ⭐ Total Stars  
-  ![](https://img.shields.io/github/stars?style=for-the-badge&color=yellow)
+- ⭐ **Total Stars**  
+  <img src="https://img.shields.io/github/stars/Hitesh2810?style=for-the-badge&color=yellow"/>
 
-- 📦 Public Repos  
-  ![](https://img.shields.io/badge/Repos-View_Profile-blue?style=for-the-badge)
+- 📦 **Public Repositories**  
+  <img src="https://img.shields.io/badge/View-Repos-blue?style=for-the-badge"/>
 
-- 🔀 Pull Requests  
-  ![](https://img.shields.io/badge/PRs-Active-green?style=for-the-badge)
+- 🔀 **Pull Requests**  
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
 
-- 🐞 Issues  
-  ![](https://img.shields.io/badge/Issues-Learning-orange?style=for-the-badge)
+- 🐞 **Issues**  
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge"/>
 
 </td>
 
@@ -141,9 +141,9 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 ### 👨‍💻 Profile Overview
 
 - 🟢 Contributions: Active  
-- 📁 Repositories: Check my GitHub profile  
-- ⏳ Experience: Growing every day  
-- 🚀 Focus: AI + Full Stack + Security  
+- 📁 Repositories: Explore my GitHub profile  
+- ⏳ Experience: Continuously improving  
+- 🚀 Focus: AI + Full Stack + Cybersecurity  
 
 ---
 ## 📊 GITHUB STATS
