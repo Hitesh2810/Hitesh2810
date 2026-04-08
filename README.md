@@ -99,30 +99,37 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 <table>
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### ⭐ Stats
 
-- ⭐ Total Stars: ![Stars](https://img.shields.io/github/stars/Hitesh2810?style=flat-square)  
-- 📦 Public Repos: ![Repos](https://img.shields.io/badge/Repos-Check%20Profile-blue?style=flat-square)  
-- 🔀 Pull Requests: ![PRs](https://img.shields.io/github/issues-pr/Hitesh2810?style=flat-square)  
-- 🐞 Issues: ![Issues](https://img.shields.io/github/issues/Hitesh2810?style=flat-square)  
+- ⭐ Total Stars  
+  ![](https://img.shields.io/github/stars?style=for-the-badge&color=yellow)
+
+- 📦 Public Repos  
+  ![](https://img.shields.io/badge/Repos-View_Profile-blue?style=for-the-badge)
+
+- 🔀 Pull Requests  
+  ![](https://img.shields.io/badge/PRs-Active-green?style=for-the-badge)
+
+- 🐞 Issues  
+  ![](https://img.shields.io/badge/Issues-Learning-orange?style=for-the-badge)
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 📊 Commits Activity
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hitesh2810&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh2810&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 💻 Top Languages
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh2810&layout=donut&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh2810&layout=donut&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 
@@ -133,13 +140,12 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 
 ### 👨‍💻 Profile Overview
 
-- 🟢 Contributions: ![Contributions](https://img.shields.io/badge/Active-Yes-brightgreen)  
+- 🟢 Contributions: Active  
 - 📁 Repositories: Check my GitHub profile  
 - ⏳ Experience: Growing every day  
 - 🚀 Focus: AI + Full Stack + Security  
 
 ---
-
 ## 📊 GITHUB STATS
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hitesh2810&show_icons=true&theme=tokyonight)
