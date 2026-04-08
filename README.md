@@ -17,7 +17,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
 
-### 💻 Languages
 ### 💻 Languages & Technologies
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
@@ -28,6 +27,7 @@
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
 ---
 
@@ -47,8 +47,8 @@
 
 ## 🤝 CONNECT WITH ME
 
-- LinkedIn: [(https://www.linkedin.com/in/hiteshkumars/)]
-- Portfolio: [(https://hitesh-kumar-s.netlify.app/)]
+- LinkedIn: https://www.linkedin.com/in/hiteshkumars/
+- Portfolio: https://hitesh-kumar-s.netlify.app/
 
 ---
 
