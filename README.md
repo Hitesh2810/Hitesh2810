@@ -5,9 +5,21 @@
 
 ## 🧑‍💻 WHO AM I?
 
-- 🎓 Final Year CSE Student
-- 💡 Interested in AI, ML & Security
-- 🛠️ Building real-world projects
+<table>
+<tr>
+<td>
+
+- 🎓 Final Year CSE Student  
+- 💡 Interested in AI, ML & Security  
+- 🛠️ Building real-world projects  
+
+</td>
+
+<td>
+<img src="https://media.tenor.com/C2qhcTXenZoAAAAM/ong-ong-duckgo-bt-bnn-ikw-sewa-rumah-nak-baya-bile.gif" width="250"/>
+</td>
+</tr>
+</table>
 
 ---
 
