@@ -30,19 +30,23 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 
 </td>
 
-<td width="35%" align="right">
+<td width="35%" align="center">
 
-<img src="https://media.tenor.com/C2qhcTXenZoAAAAM/ong-ong-duckgo-bt-bnn-ikw-sewa-rumah-nak-baya-bile.gif" width="350"/>
+<img src="https://media.tenor.com/C2qhcTXenZoAAAAM/ong-ong-duckgo-bt-bnn-ikw-sewa-rumah-nak-baya-bile.gif" width="320"/>
 
-<br><br>
+<br>
 
 ### 📡 Quick Stats
 
-- 🌍 Based in India  
-- 🎓 Final Year CSE Student  
-- 💻 Full Stack Developer  
-- 🤖 AI & ML Enthusiast  
-- 🔐 Learning Cybersecurity  
+<p align="left">
+
+🌍 Based in India<br>
+🎓 Final Year CSE Student<br>
+💻 Full Stack Developer<br>
+🤖 AI & ML Enthusiast<br>
+🔐 Learning Cybersecurity
+
+</p>
 
 </td>
 </tr>
