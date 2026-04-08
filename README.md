@@ -88,6 +88,57 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 </p>
 
 ---
+---
+
+## 📊 DEVELOPMENT ANALYTICS DASHBOARD
+
+<p align="center">
+<i>Real-time insights into my coding activity and contributions</i>
+</p>
+
+<table>
+<tr>
+
+<td width="33%">
+
+### ⭐ Stats
+
+- ⭐ Total Stars: ![Stars](https://img.shields.io/github/stars/Hitesh2810?style=flat-square)  
+- 📦 Public Repos: ![Repos](https://img.shields.io/badge/Repos-Check%20Profile-blue?style=flat-square)  
+- 🔀 Pull Requests: ![PRs](https://img.shields.io/github/issues-pr/Hitesh2810?style=flat-square)  
+- 🐞 Issues: ![Issues](https://img.shields.io/github/issues/Hitesh2810?style=flat-square)  
+
+</td>
+
+<td width="33%">
+
+### 📊 Commits Activity
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hitesh2810&theme=tokyo-night)
+
+</td>
+
+<td width="33%">
+
+### 💻 Top Languages
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh2810&layout=donut&theme=tokyonight)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+### 👨‍💻 Profile Overview
+
+- 🟢 Contributions: ![Contributions](https://img.shields.io/badge/Active-Yes-brightgreen)  
+- 📁 Repositories: Check my GitHub profile  
+- ⏳ Experience: Growing every day  
+- 🚀 Focus: AI + Full Stack + Security  
+
+---
 
 ## 📊 GITHUB STATS
 
