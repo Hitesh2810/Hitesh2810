@@ -89,6 +89,11 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 
 ---
 
+### 📊 Commits Activity
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hitesh2810&theme=tokyo-night&area=true&hide_border=true)
+
+---
 ## 🔥 STREAK
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hitesh2810&theme=tokyonight)
