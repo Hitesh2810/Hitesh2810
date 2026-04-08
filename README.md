@@ -9,7 +9,7 @@
 <tr>
 <td width="65%">
 
-Hey there! I'm Hitesh, but you can call me a builder of smart solutions 👨‍💻  
+Hey there! I'm Hitesh, but you can call me a builder of smart solutions  
 
 I'm passionate about AI, web development, and cybersecurity. I enjoy creating real-world applications that combine intelligence with usability. Think of me as someone who loves turning ideas into impactful digital solutions.  
 
@@ -31,7 +31,19 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 </td>
 
 <td width="35%" align="right">
+
 <img src="https://media.tenor.com/C2qhcTXenZoAAAAM/ong-ong-duckgo-bt-bnn-ikw-sewa-rumah-nak-baya-bile.gif" width="350"/>
+
+<br><br>
+
+### 📡 Quick Stats
+
+- 🌍 Based in India  
+- 🎓 Final Year CSE Student  
+- 💻 Full Stack Developer  
+- 🤖 AI & ML Enthusiast  
+- 🔐 Learning Cybersecurity  
+
 </td>
 </tr>
 </table>
