@@ -31,6 +31,19 @@
 
 ---
 
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <a href="https://github.com/users/Hitesh2810/achievements/yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
+  </a>
+  <a href="https://github.com/users/Hitesh2810/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GITHUB STATS
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hitesh2810&show_icons=true&theme=tokyonight)
