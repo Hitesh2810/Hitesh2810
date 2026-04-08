@@ -34,7 +34,7 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 
 <br><br>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxmZG50bHU1eTh0bjA0NW52eHc5dTZ4bHd6dDg2cDF0Y2kwb2kzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif" width="320"/>
+<img src="https://media.tenor.com/C2qhcTXenZoAAAAM/ong-ong-duckgo-bt-bnn-ikw-sewa-rumah-nak-baya-bile.gif" width="320"/>
 
 <br>
 
