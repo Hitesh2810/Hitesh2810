@@ -96,45 +96,39 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 <i>Real-time insights into my coding activity and contributions</i>
 </p>
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
+---
 
 ### ⭐ Stats
 
-- ⭐ **Total Stars**  
-  <img src="https://img.shields.io/github/stars/Hitesh2810?style=for-the-badge&color=yellow"/>
+- ⭐ Total Stars  
+  ![](https://img.shields.io/github/stars/Hitesh2810?style=for-the-badge&color=yellow)
 
-- 📦 **Public Repositories**  
-  <img src="https://img.shields.io/badge/View-Repos-blue?style=for-the-badge"/>
+- 📦 Public Repositories  
+  ![](https://img.shields.io/badge/View-Repos-blue?style=for-the-badge)
 
-- 🔀 **Pull Requests**  
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
+- 🔀 Pull Requests  
+  ![](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-- 🐞 **Issues**  
-  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge"/>
+- 🐞 Issues  
+  ![](https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge)
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 📊 Commits Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh2810&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hitesh2810&theme=tokyo-night&area=true&hide_border=true)
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 💻 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh2810&layout=donut&theme=tokyonight&hide_border=true" width="100%"/>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh2810&layout=donut&theme=tokyonight&hide_border=true)
 
-</td>
+---
 
-</tr>
-</table>
+### 🔥 Streak
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hitesh2810&theme=tokyonight)
 
 ---
 
