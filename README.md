@@ -17,7 +17,7 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 
 - 📚 Exploring AI & Machine Learning concepts  
 - 🤖 Building voice-based and AI-powered applications  
-- 🌐 Developing full-stack web applications (React + Node.js + MongoDB)  
+- 🌐 Developing full-stack web applications  
 - 🔐 Learning cybersecurity concepts and ethical hacking basics  
 - 📊 Working on data-driven projects and model building  
 
@@ -40,11 +40,11 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 
 ### 📡 Quick Stats
 
-🌍 Based in India  
-🎓 Final Year CSE Student  
-💻 Full Stack Developer  
-🤖 AI & ML Enthusiast  
-🔐 Learning Cybersecurity  
+- 🌍 Based in India  
+- 🎓 Final Year CSE Student  
+- 💻 Full Stack Developer  
+- 🤖 AI & ML Enthusiast  
+- 🔐 Learning Cybersecurity  
 
 </div>
 
