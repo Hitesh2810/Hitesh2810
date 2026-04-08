@@ -32,9 +32,11 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 
 <td width="35%" valign="top">
 
+<br><br>
+
 <img src="https://media.tenor.com/C2qhcTXenZoAAAAM/ong-ong-duckgo-bt-bnn-ikw-sewa-rumah-nak-baya-bile.gif" width="320"/>
 
-<br><br>
+<br>
 
 <div align="left">
 
