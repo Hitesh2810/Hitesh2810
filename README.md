@@ -103,7 +103,7 @@ I'm passionate about AI, web development, and cybersecurity. I enjoy creating re
 ## 🤝 CONNECT WITH ME
 
 - LinkedIn: https://www.linkedin.com/in/hiteshkumars/
-- Portfolio: https://hitesh-kumar-s.netlify.app/
+- Portfolio: https://hitesh2810.github.io/Web-Portfolio/
 
 ---
 
